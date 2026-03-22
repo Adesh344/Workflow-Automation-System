@@ -2,7 +2,7 @@ import { useState } from "react";
 import Navbar from "../components/Navbar";
 import TaskList from "../components/tasks/TaskList";
 import WorkflowList from "../components/workflows/WorkflowList";
-import LogList from "../components/logs/LogList.jsx";
+import LogList from "../components/logs/LogList";
 import useTasks from "../hooks/useTasks";
 import useWorkflows from "../hooks/useWorkflows";
 import useLogs from "../hooks/useLogs";
