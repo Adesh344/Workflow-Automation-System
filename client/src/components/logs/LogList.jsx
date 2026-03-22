@@ -1,4 +1,4 @@
-export const LogList = ({ logs, loading, fetchLogs, clearLogs }) => {
+const LogList = ({ logs, loading, fetchLogs, clearLogs }) => {
   const handleClear = async () => {
     if (window.confirm("Clear all logs?")) await clearLogs();
   };
@@ -59,4 +59,4 @@ export const LogList = ({ logs, loading, fetchLogs, clearLogs }) => {
   );
 };
 
-;
+export default LogList;
