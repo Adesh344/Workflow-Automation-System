@@ -3,6 +3,10 @@
 
 A powerful task manager with built-in workflow automation. Create tasks, define rules, and let the system execute actions automatically — all within a secure, user-isolated workspace.
 
+## deployed link
+- backend : https://workflow-automation-system-oy60.onrender.com
+- Frontend : https://workflow-automation-system-livid.vercel.app/
+
 ---
 
 ## 🚀 Features
